@@ -9,7 +9,7 @@
   "devDependencies": {
     "grunt-contrib-coffee": "*",
     "grunt-contrib-concat": "*",
-    "grunt-contrib-uglify": "*",
+    "grunt-contrib-uglify": ">=3.0.1",
     "grunt-contrib-stylus": "*",
     "grunt-contrib-copy": "*",
     "grunt-contrib-watch": "*"
