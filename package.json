@@ -7,7 +7,7 @@
     "name": "Tapquo S.L.",
     "site": "http://tapquo.com"},
   "devDependencies": {
-    "grunt-contrib-coffee": "*",
+    "grunt-contrib-coffee": ">=2.0.0",
     "grunt-contrib-concat": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-stylus": "*",
