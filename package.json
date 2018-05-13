@@ -12,6 +12,6 @@
     "grunt-contrib-uglify": "*",
     "grunt-contrib-stylus": "*",
     "grunt-contrib-copy": "*",
-    "grunt-contrib-watch": "*"
+    "grunt-contrib-watch": ">=1.1.0"
   }
 }
