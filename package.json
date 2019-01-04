@@ -10,7 +10,7 @@
     "grunt-contrib-coffee": "*",
     "grunt-contrib-concat": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-contrib-stylus": "*",
+    "grunt-contrib-stylus": ">=1.2.0",
     "grunt-contrib-copy": "*",
     "grunt-contrib-watch": "*"
   }
